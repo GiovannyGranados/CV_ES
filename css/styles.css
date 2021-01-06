@@ -1,0 +1,143 @@
+/* Portada */
+#portada {
+  background-color: #0E52B0;
+  padding: 1rem 0;
+}
+
+.portadamrg{
+  margin-right: 0;
+}
+
+.txt_presentacion {
+  text-align: justify;
+  margin: auto;
+  padding-left: 7.5%;
+}
+
+.txt1 {
+  font-family: 'Arapey', serif;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.name {
+  font-family: 'Great Vibes', cursive;
+  color: #FFF;
+  font-size: 5rem;
+}
+
+.txt2 {
+  font-family: 'Arapey', serif;
+  font-weight: 900;
+  font-size: 1rem;
+  color: #BDBDBD;
+}
+
+.img_presentacion {
+  text-align: center;
+}
+
+.FotoCV {
+  border-radius: 100%;
+  border: 0.25rem solid #FFF;
+}
+
+/* Bio */
+#bio {
+  padding: 2rem 1rem;
+}
+
+.img_bio {
+  text-align: center;
+}
+
+.imgBio {
+  width: 40%;
+}
+
+.txt_bio {
+  text-align: center;
+  margin: auto;
+  font-size: 1.25rem;
+}
+
+/* Skills */
+#skills {
+  background-color: #0E52B0;
+  padding: 2rem 1rem;
+}
+
+.skills_titulo {
+  color: #FFF;
+  font-family: 'Arapey', serif;
+  font-size: 4rem;
+  font-weight: 900;
+  text-align: justify;
+  margin: auto;
+  padding-left: 15%;
+}
+
+.skills_list {
+  color: #FFF;
+  font-family: 'Arapey', serif;
+  font-size: 1.5rem;
+  text-align: justify;
+  margin: auto;
+  padding-left: 25%;
+}
+
+.skill_item {
+  color: #FFF;
+  width: 30%;
+  float: left;
+  font-family: 'Arapey', serif;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.barras {
+  margin: auto;
+}
+
+.progreso {
+  background-color: #FFF;
+  width: 50%;
+  height: 2.5rem;
+}
+
+.progreso_bar {
+  background-color: #BDBDBD;
+}
+
+/* Educacion */
+
+#educacion{
+    padding: 1rem 3rem;
+}
+
+.edu_titulo{
+  font-family: 'Arapey', serif;
+  font-size: 4rem;
+  font-weight: 900;
+  color: #0E52B0;
+  text-align: right;
+}
+
+td{
+  padding: 0 2rem 0 1.25em;
+  font-size: 1.25rem;
+}
+
+.certif{
+  text-align:center;
+  display:block;
+}
+
+/* Autor */
+
+#madeby{
+  background-color: #0E52B0;
+  color: #FFF;
+  text-align: center;
+  padding: 1rem 0;
+}
